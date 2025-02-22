@@ -1,0 +1,10 @@
+PicoCTF Report (30%)
+In the PicoCTF challenge, I successfully solved three tasks related to SQL injection. 
+
+Below are the obtained flags:
+No SQL Injection: picoCTF{jBhD2y7XoNzPv_1YxS9Ew5qL0uI6pasql_injection_784e40e8}
+SQLiLite: picoCTF{L00k5_l1k3_y0u_solv3d_it_9b0a4e21}
+More SQLi: picoCTF{G3tting_5QL_1nJ3c7I0N_l1k3_y0u_sh0ulD_78d0583a}
+
+These challenges helped me better understand SQL injection vulnerabilities and how they can be exploited to retrieve sensitive information from databases. Through these exercises, I gained hands-on experience in identifying and preventing SQL injection attacks.
+This report serves as documentation of my progress in learning cybersecurity concepts and practical applications of SQL injection techniques.
