@@ -1,5 +1,6 @@
 TryHackMe Assignment Report
-Student Profile:TryHackMe Profile: 230107170
+
+Student Profile:TryHackMe Profile: https://tryhackme.com/p/230107170
 1. SQHell
 Description: The room focused on SQL injection techniques and how to exploit vulnerable databases.
 Key Takeaways: Learned how to extract data from a database using basic SQL injection methods.
