@@ -1,6 +1,6 @@
 TryHackMe Assignment Report
 
-Student Profile:TryHackMe Profile: https://tryhackme.com/p/230107170
+TryHackMe Profile: https://tryhackme.com/p/230107170
 1. SQHell
 Description: The room focused on SQL injection techniques and how to exploit vulnerable databases.
 Key Takeaways: Learned how to extract data from a database using basic SQL injection methods.
@@ -50,7 +50,8 @@ Challenges Solved:
 Injected malicious scripts to exploit vulnerable web applications.
 Explored browser-based exploitations using JavaScript payloads.
 
-Conclusion
+Conclusion 
+
 This assignment provided practical hands-on experience with web security vulnerabilities. The rooms covered different types of SQL injections, NoSQL attacks, CSRF, and XSS, helping to develop a strong understanding of web application security and exploit mitigation techniques.
 
 
